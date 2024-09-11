@@ -1,0 +1,12 @@
+.home {
+    height: 100vh;
+    background: #143e29;
+}
+
+.table th {
+    text-align: center;
+}
+
+.table tr{
+    text-align: center;
+}

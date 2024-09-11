@@ -1,0 +1,15 @@
+.navbar-brand {
+    padding-left: 25px;
+    padding-right: 65%;
+}
+
+.navbar a {
+    font-weight: bold;
+    color: white;
+
+}
+
+.navbar {
+    --bs-bg-opacity: 1;
+    background-color: rgb(63 146 100) !important;
+}
